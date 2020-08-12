@@ -2,6 +2,9 @@
 
 An Android and IOS app, that lets you add daily habits and track them over time. The goal is to never leave a habit undone for 2 days in a row which will help the user to over time make more habits stick.
 
+## Useful stuff
+- https://youtu.be/Mx24wiPilHg
+
 ## Items in app
 - Tracking overview
 - Habit adder
